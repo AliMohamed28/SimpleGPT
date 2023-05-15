@@ -30,7 +30,7 @@ st.set_page_config(
         'About': "### gptfree GUI",
     },
 )
-st.header('GPT4free GUI')
+st.header('SimpleGPT')
 
 # Add text area for user input and button to get answer
 question_text_area = st.text_area('🤖 Ask Any Question :', placeholder='Explain quantum computing in 50 words')
